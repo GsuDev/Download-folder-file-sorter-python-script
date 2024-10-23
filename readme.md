@@ -1,6 +1,5 @@
 Here’s an example `README.md` for your file organizer script in English:
 
-```markdown
 # Automatic File Organizer for Downloads Folder
 
 This Python script automatically organizes files in your Downloads folder by moving them into subfolders based on their type (Documents, Images, Music, Videos, Executables, etc.). Any file that doesn't fit into the predefined categories will be moved to an "Others" folder.
@@ -52,7 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Created by [Your Name]
-```
-
-You can modify the `README.md` to better fit any additional details or customizations you might have in your project.
+Created by GsuDev
